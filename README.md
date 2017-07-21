@@ -29,3 +29,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 "# pieChartd3" 
 "# pieChartd3" 
 "# pieChartd3" 
+"# d3chart" 
